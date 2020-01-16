@@ -329,10 +329,11 @@
                             <outlet property="sendMsgImg" destination="2vg-3i-SxN" id="qpU-kh-7t3"/>
                         </connections>
                     </view>
+                    <navigationItem key="navigationItem" id="89m-WL-r9v"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FMF-5O-dC5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1844" y="34.632683658170919"/>
+            <point key="canvasLocation" x="1842" y="29"/>
         </scene>
     </scenes>
     <resources>
